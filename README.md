@@ -5,9 +5,10 @@ It showcases the **end-to-end workflow** of a real-world data analyst — from *
 
 ![SQL](https://img.shields.io/badge/Language-SQL-blue)
 ![Database](https://img.shields.io/badge/Database-PostgreSQL-green)
-![Tool](https://img.shields.io/badge/Tool-PowerBI-yellow)
 ![Data Analysis](https://img.shields.io/badge/Focus-Data_Analysis-orange)
-
+![ETL](https://img.shields.io/badge/Process-ETL-yellow)
+![Queries](https://img.shields.io/badge/Queries-Advanced_SQL-purple)
+![Tool](https://img.shields.io/badge/Tool-dbdiagram.io-lightgrey)
 
 ---
 
